@@ -3,7 +3,7 @@ var router = express.Router();
 
 
 router.post('/friend', function(req, res){
-    console.log(req.body, "This is our new friend")
+    console.log(req.body, "New Friend Alert!");
     // Loop over all friends -- for loop
     // Loop over all the scores of current freind
     // compare to the new friend

@@ -1,6 +1,6 @@
 const friends = [{
         name: "Alicia",
-        photo: "",
+        photo: "https://images.pexels.com/photos/289252/pexels-photo-289252.jpeg",
         scores: [
             "3",
             "2",
@@ -16,7 +16,7 @@ const friends = [{
     },
     {
         name: "Chris",
-        photo: "",
+        photo: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
         scores: [
             "2",
             "2",
@@ -32,7 +32,7 @@ const friends = [{
     },
     {
         name: "Chloe",
-        photo: "",
+        photo: "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg",
         scores: [
             "1",
             "1",
@@ -48,7 +48,7 @@ const friends = [{
     },
     {
         name: "Piper",
-        photo: "",
+        photo: "https://images.pexels.com/photos/247322/pexels-photo-247322.jpeg",
         scores: [
             "3",
             "3",
@@ -64,7 +64,7 @@ const friends = [{
     },
     {
         name: "Chad",
-        photo: "",
+        photo: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg",
         scores: [
             "5",
             "5",
